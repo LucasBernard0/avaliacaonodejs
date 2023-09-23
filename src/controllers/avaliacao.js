@@ -1,4 +1,4 @@
-const ServicoCalculadora = require ("../services/avaliaçao")
+const ServicoCalculadora = require ("../services/avaliacao")
 
 const servico = new ServicoCalculadora()
 
